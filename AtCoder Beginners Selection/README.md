@@ -9,3 +9,4 @@
 |ABC083B|Some Sums|<a href="https://atcoder.jp/contests/abs/submissions/4499351" target="_blank">#4499351</a>
 |ABC088B|Card Game for Two|<a href="https://atcoder.jp/contests/abs/submissions/4507209" target="_blank">#4507209</a>
 |ABC085B|Kagami Mochi|<a href="https://atcoder.jp/contests/abs/submissions/4986814" target="_blank">#4986814</a>
+|ABC085C|Otoshidama|<a href="https://atcoder.jp/contests/abs/submissions/7288797" target="_blank">#7288797</a>
